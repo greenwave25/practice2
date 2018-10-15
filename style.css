@@ -1,0 +1,37 @@
+header{
+  border-bottom: 2px darkgray solid;
+  text-align: center;
+}
+header h1{
+  padding-top: 35px;
+  padding-bottom: 25px;
+  height: 120px;
+  margin: 0;
+}
+header img{
+  width: 110px;
+  float: right;
+  margin-right: 110px;
+}
+nav{
+  border-right: 2px darkgray solid;
+  float: left;
+  width:180px;
+  height: -webkit-fill-available;
+  padding-left: 20px;
+}
+nav ul{
+  list-style-type: none;
+  font-size: 20px;
+  padding-top: 12px;
+}
+.btn{
+  float: right;
+}
+article{
+  padding-top: 12px;
+  padding-left: 215px;
+}
+button.btn.btn-primary{
+  float: left;
+}
